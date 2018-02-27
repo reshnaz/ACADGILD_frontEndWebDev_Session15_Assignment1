@@ -1,4 +1,4 @@
-# S14A4
+# S15A1
 
 Note: All output related files are under "src/app" folder.
 
@@ -48,6 +48,10 @@ data.
 24. Create a HTTP GET service to get the POST values from the database use
 async pipe to show the response in the View.
 25. Create an Error Handling for all the above service.
+26. Import animation module and configure the animation in @Compnent ({}).
+27. Define trigger function and 1 state inside the trigger function for active in
+style add background color =”#cfd8dc”
+28. Define the animation in HTML by property binding.
 
 ## Development server
 
